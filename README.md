@@ -1,9 +1,32 @@
-- 👋 Hi, I’m [@nshutinicolas](https://linkedin.com/in/nshuti-nicolas)
-- 👀 I’m so much in Swift and React comes in later
-- 💻 My strongest possession is my laptop
-- 🌱 I’m currently learning how to live the best life as a programmer
-- 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me through twitter [@ibirorimurwanda](https://twitter.com/ibirorimurwanda)
+# Hi, I'm Nicolas Nshuti 👋 - Call me Niq
+
+👨‍💻 **Developing at Ibirori Tech Lab**
+
+I'm so into native iOS eco so much to an extend where my passport is written in **Swift**.
+I enjoy creating intuitive user experiences and building reliable, maintainable software.
+
+I also build on **Vapor** for my backend work every time👌🏿
+
+### 🛠️ Tech Stack
+
+Swift · SwiftUI · UIKit · Vapor
+
+### 🚀 Open Source Projects
+
+* **[Lynk](https://github.com/nshutinicolas/lynk)** — A privacy-focused link-saving app for Apple devices.
+
+### 🤝 Let's Connect
+
+* 📧 Email: [nshuti.nicolas@ibirori.dev](mailto:nshuti.nicolas@ibirori.dev)
+* 💻 GitHub: [@nshutinicolas](https://github.com/nshutinicolas)
+* 📧 LinkedIn: [@nshutinicolas](https://linkedin.com/in/nshuti-nicolas)
+
+### Struggles
+
+- Adapting to AI agents is still a problem. I still find myself writing all the code manually
+- I visit stack overflow more often than you might think😂
+
+*Building useful things, one line of code at a time.* 🚀
 
 <!---
 nshutinicolas/nshutinicolas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
